@@ -1,0 +1,9 @@
+{
+	"name": "stroemsdatafabrikk",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00f31849-a9f1-42fe-88ed-7b82e4d14439",
+		"tenantId": "c53e14aa-f542-4410-9f96-608fd6ff8cae"
+	}
+}
